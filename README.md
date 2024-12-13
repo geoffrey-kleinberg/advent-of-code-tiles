@@ -3,7 +3,7 @@ All my Advent of Code tiles in one place!!
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  Advent of Code - 340/476 ⭐
+  Advent of Code - 342/476 ⭐
 </h1>
 <h1 align="center">
   2024 - 26 ⭐ - Ruby
@@ -372,7 +372,7 @@ All my Advent of Code tiles in one place!!
   <img src=".aoc_tiles/tiles/2018/01.png" width="161px">
 </a>
 <h1 align="center">
-  2017 - 10 ⭐ - Ruby
+  2017 - 12 ⭐ - Ruby
 </h1>
 <a href="advent-of-code-2017/12-01-17/main.rb">
   <img src=".aoc_tiles/tiles/2017/01.png" width="161px">
@@ -388,6 +388,9 @@ All my Advent of Code tiles in one place!!
 </a>
 <a href="advent-of-code-2017/12-05-17/main.rb">
   <img src=".aoc_tiles/tiles/2017/05.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-06-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/06.png" width="161px">
 </a>
 <h1 align="center">
   2016 - 50 ⭐ - Ruby
