@@ -39,7 +39,7 @@ def part1(input)
       end
       if closers.include? j
         if openOrder.last != closeOpen[j]
-          corrupted = true
+          # corrupted = true
           points += charPoints[j]
           corruptedLines << i
           break
