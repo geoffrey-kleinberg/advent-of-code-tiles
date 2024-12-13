@@ -3,10 +3,10 @@ All my Advent of Code tiles in one place!!
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  Advent of Code - 320/476 ⭐
+  Advent of Code - 340/476 ⭐
 </h1>
 <h1 align="center">
-  2024 - 18 ⭐ - Ruby
+  2024 - 26 ⭐ - Ruby
 </h1>
 <a href="advent-of-code-2024/12-01-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/01.png" width="161px">
@@ -14,7 +14,7 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2024/12-02-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/02.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2024/12-03-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/03.png" width="161px">
 </a>
 <a href="advent-of-code-2024/12-04-24/main.rb">
@@ -26,7 +26,7 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2024/12-06-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/06.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2024/12-07-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/07.png" width="161px">
 </a>
 <a href="advent-of-code-2024/12-08-24/main.rb">
@@ -41,8 +41,14 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2024/12-11-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/11.png" width="161px">
 </a>
+<a href="advent-of-code-2024/12-12-24/main.rb">
+  <img src=".aoc_tiles/tiles/2024/12.png" width="161px">
+</a>
+<a href="advent-of-code-2024/12-13-24/main.rb">
+  <img src=".aoc_tiles/tiles/2024/13.png" width="161px">
+</a>
 <h1 align="center">
-  2023 - 38 ⭐ - Ruby
+  2023 - 50 ⭐ - Ruby
 </h1>
 <a href="advent-of-code-2023/12-01-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/01.png" width="161px">
@@ -50,7 +56,7 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2023/12-02-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/02.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2023/12-03-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/03.png" width="161px">
 </a>
 <a href="advent-of-code-2023/12-04-23/main.rb">
@@ -62,7 +68,7 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2023/12-06-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/06.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2023/12-07-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/07.png" width="161px">
 </a>
 <a href="advent-of-code-2023/12-08-23/main.rb">
@@ -77,10 +83,10 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2023/12-11-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/11.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2023/12-12-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/12.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2023/12-13-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/13.png" width="161px">
 </a>
 <a href="advent-of-code-2023/12-14-23/main.rb">
@@ -92,7 +98,7 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2023/12-16-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/16.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2023/12-17-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/17.png" width="161px">
 </a>
 <a href="advent-of-code-2023/12-18-23/main.rb">
@@ -110,7 +116,7 @@ All my Advent of Code tiles in one place!!
 <a href="advent-of-code-2023/12-22-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/22.png" width="161px">
 </a>
-<a href="None">
+<a href="advent-of-code-2023/12-23-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/23.png" width="161px">
 </a>
 <a href="advent-of-code-2023/12-24-23/main.rb">
