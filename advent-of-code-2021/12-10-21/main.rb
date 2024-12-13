@@ -31,7 +31,7 @@ def part1(input)
   }
   points = 0
   for i in input
-    corrupted = false
+    # corrupted = false
     openOrder = []
     for j in i.split("")
       if openers.include? j
