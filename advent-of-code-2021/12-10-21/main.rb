@@ -31,7 +31,7 @@ def part1(input)
   }
   points = 0
   for i in input
-    # corrupted = false
+    corrupted = false
     openOrder = []
     for j in i.split("")
       if openers.include? j
@@ -39,7 +39,7 @@ def part1(input)
       end
       if closers.include? j
         if openOrder.last != closeOpen[j]
-          # corrupted = true
+          corrupted = true
           points += charPoints[j]
           corruptedLines << i
           break

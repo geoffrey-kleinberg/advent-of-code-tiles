@@ -3,10 +3,10 @@ All my Advent of Code tiles in one place!!
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  Advent of Code - 342/476 ⭐
+  Advent of Code - 390/482 ⭐
 </h1>
 <h1 align="center">
-  2024 - 26 ⭐ - Ruby
+  2024 - 32 ⭐ - Ruby
 </h1>
 <a href="advent-of-code-2024/12-01-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/01.png" width="161px">
@@ -46,6 +46,15 @@ All my Advent of Code tiles in one place!!
 </a>
 <a href="advent-of-code-2024/12-13-24/main.rb">
   <img src=".aoc_tiles/tiles/2024/13.png" width="161px">
+</a>
+<a href="advent-of-code-2024/12-14-24/main.rb">
+  <img src=".aoc_tiles/tiles/2024/14.png" width="161px">
+</a>
+<a href="advent-of-code-2024/12-15-24/main.rb">
+  <img src=".aoc_tiles/tiles/2024/15.png" width="161px">
+</a>
+<a href="advent-of-code-2024/12-16-24/main.rb">
+  <img src=".aoc_tiles/tiles/2024/16.png" width="161px">
 </a>
 <h1 align="center">
   2023 - 50 ⭐ - Ruby
@@ -366,13 +375,19 @@ All my Advent of Code tiles in one place!!
   <img src=".aoc_tiles/tiles/2019/01.png" width="161px">
 </a>
 <h1 align="center">
-  2018 - 2 ⭐ - Ruby
+  2018 - 6 ⭐ - Ruby
 </h1>
 <a href="advent-of-code-2018/12-01-18/main.rb">
   <img src=".aoc_tiles/tiles/2018/01.png" width="161px">
 </a>
+<a href="advent-of-code-2018/12-02-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/02.png" width="161px">
+</a>
+<a href="advent-of-code-2018/12-03-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/03.png" width="161px">
+</a>
 <h1 align="center">
-  2017 - 12 ⭐ - Ruby
+  2017 - 50 ⭐ - Ruby
 </h1>
 <a href="advent-of-code-2017/12-01-17/main.rb">
   <img src=".aoc_tiles/tiles/2017/01.png" width="161px">
@@ -391,6 +406,63 @@ All my Advent of Code tiles in one place!!
 </a>
 <a href="advent-of-code-2017/12-06-17/main.rb">
   <img src=".aoc_tiles/tiles/2017/06.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-07-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/07.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-08-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/08.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-09-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/09.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-10-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/10.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-11-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/11.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-12-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/12.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-13-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/13.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-14-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/14.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-15-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/15.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-16-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/16.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-17-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/17.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-18-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/18.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-19-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/19.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-20-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/20.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-21-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/21.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-22-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/22.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-23-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/23.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-24-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/24.png" width="161px">
+</a>
+<a href="advent-of-code-2017/12-25-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/25.png" width="161px">
 </a>
 <h1 align="center">
   2016 - 50 ⭐ - Ruby
