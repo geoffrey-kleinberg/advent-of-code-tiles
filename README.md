@@ -3,7 +3,7 @@ All my Advent of Code tiles in one place!!
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  Advent of Code - 434/500 ⭐
+  Advent of Code - 446/500 ⭐
 </h1>
 <h1 align="center">
   2024 - 50 ⭐ - Ruby
@@ -402,7 +402,7 @@ All my Advent of Code tiles in one place!!
   <img src=".aoc_tiles/tiles/2019/01.png" width="161px">
 </a>
 <h1 align="center">
-  2018 - 32 ⭐ - Ruby
+  2018 - 44 ⭐ - Ruby
 </h1>
 <a href="advent-of-code-2018/12-01-18/main.rb">
   <img src=".aoc_tiles/tiles/2018/01.png" width="161px">
@@ -451,6 +451,24 @@ All my Advent of Code tiles in one place!!
 </a>
 <a href="advent-of-code-2018/12-16-18/main.rb">
   <img src=".aoc_tiles/tiles/2018/16.png" width="161px">
+</a>
+<a href="advent-of-code-2018/12-17-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/17.png" width="161px">
+</a>
+<a href="advent-of-code-2018/12-18-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/18.png" width="161px">
+</a>
+<a href="advent-of-code-2018/12-19-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/19.png" width="161px">
+</a>
+<a href="advent-of-code-2018/12-20-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/20.png" width="161px">
+</a>
+<a href="advent-of-code-2018/12-21-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/21.png" width="161px">
+</a>
+<a href="advent-of-code-2018/12-22-18/main.rb">
+  <img src=".aoc_tiles/tiles/2018/22.png" width="161px">
 </a>
 <h1 align="center">
   2017 - 50 ⭐ - Ruby
